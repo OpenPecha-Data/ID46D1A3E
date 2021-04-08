@@ -10,21 +10,25 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 460
+      base_file: v001.txt
     65af884e5230491ba518eef48bb5df78:
       image_group_id: I3195
       title: ''
       volume_number: 2
       total_pages: 454
+      base_file: v002.txt
     de68e6c194f3465281e75a39b9ba939e:
       image_group_id: I3196
       title: ''
       volume_number: 3
       total_pages: 502
+      base_file: v003.txt
     2f50f00163dd4775948deaeead0c3bfb:
       image_group_id: I3197
       title: ''
       volume_number: 4
       total_pages: 482
+      base_file: v004.txt
 ebook_metadata:
   title: རྭ་ལུང་དཀར་བརྒྱུད་གསེར་འཕྲེང་།
   author: ''
